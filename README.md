@@ -27,7 +27,7 @@ Follow these steps to get your project up and running:
 3. Enjoy! 🎊
 
 ## 📅 Future Improvements
- 💡
+
 Add you own idea as well 🌱
 
 ## 📫 Contact
